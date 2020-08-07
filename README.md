@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi there
+
+I'm Minwoo who
+- 💻 works as an applied scientist at Microsoft
+- 🛰 loves machine learning and coding
+- 🌱 learns multi-lingual NLP recently
