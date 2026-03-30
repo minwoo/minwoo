@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ### 👋 Hi there
 
 I'm Minwoo who
-- 💻 works as an applied scientist at Microsoft
-- 🛰 loves machine learning and coding
-- 🌱 learns multi-lingual NLP recently
+- 💻 works as senior machine learning engineering manager at Atlassian
+- 🛰 loves machine learning and NLP
+- 🌱 learns llm, agent and ml systems
